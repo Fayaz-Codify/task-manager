@@ -21,7 +21,9 @@ This is a simple Laravel application for managing tasks and projects.
 3. Configure your .env file (database settings)
 
 4. Run migrations:
+    ```bash
     php artisan migrate
 
 5. Start the application:
+    ```bash
     php artisan serve
