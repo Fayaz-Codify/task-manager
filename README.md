@@ -27,3 +27,12 @@ This is a simple Laravel application for managing tasks and projects.
 5. Start the application:
     ```bash
     php artisan serve
+
+
+6. Run this command
+
+```bash
+
+composer install
+cp .env.example .env
+php artisan key:generate
